@@ -1,14 +1,13 @@
-
 ---
-layout:     post
-title:      "美食之魂：可可的华丽蜕变"
-date:       2024-06-24 12:00:00
-author:     "雷"
-header-img: "img/post-bg-miui6.jpg"
+layout: post
+title: "美食之魂：可可的华丽蜕变"
+subtitle: "Dreamers among programmers"
+author: "雷"
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
 tags:
-    - 知乎
-    - 产品
-    - UX/UI
+  - Facebook
+  - Meta
 ---
 
 # 美食之魂：可可的华丽蜕变
