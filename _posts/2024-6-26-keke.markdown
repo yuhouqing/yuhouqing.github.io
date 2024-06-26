@@ -3,7 +3,7 @@ layout: post
 title: "美食之魂：可可的华丽蜕变"
 subtitle: "Dreamers among programmers"
 author: "雷"
-header-img: "img/post-bg-dreamer.jpg"
+header-img: "[img/post-bg-dreamer.jpg](https://tp.shouyi.store/file/375e4675af17014f98b6d.png)"
 header-mask: 0.4
 tags:
   - Facebook
